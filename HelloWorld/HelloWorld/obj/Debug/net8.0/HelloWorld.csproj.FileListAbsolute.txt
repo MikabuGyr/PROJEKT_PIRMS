@@ -1,0 +1,14 @@
+C:\Nová složka\C#\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+C:\Nová složka\C#\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+C:\Nová složka\C#\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+C:\Nová složka\C#\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+C:\Nová složka\C#\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+C:\Nová složka\C#\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nová složka\C#\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Nová složka\C#\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+C:\Nová složka\C#\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Nová složka\C#\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+C:\Nová složka\C#\HelloWorld\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+C:\Nová složka\C#\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+C:\Nová složka\C#\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+C:\Nová složka\C#\HelloWorld\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
