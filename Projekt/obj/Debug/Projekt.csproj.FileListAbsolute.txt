@@ -1,0 +1,15 @@
+C:\Users\alexa\Documents\PiRMS\Projekt\bin\Debug\Projekt.exe
+C:\Users\alexa\Documents\PiRMS\Projekt\bin\Debug\MathNet.Numerics.dll
+C:\Users\alexa\Documents\PiRMS\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\alexa\Documents\PiRMS\Projekt\bin\Debug\System.ValueTuple.dll
+C:\Users\alexa\Documents\PiRMS\Projekt\bin\Debug\MathNet.Numerics.xml
+C:\Users\alexa\Documents\PiRMS\Projekt\bin\Debug\System.ValueTuple.xml
+C:\Users\alexa\Documents\PiRMS\Projekt\obj\Debug\Projekt.csproj.AssemblyReference.cache
+C:\Users\alexa\Documents\PiRMS\Projekt\obj\Debug\Projekt.Form1.resources
+C:\Users\alexa\Documents\PiRMS\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\alexa\Documents\PiRMS\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\alexa\Documents\PiRMS\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\PiRMS\Projekt\obj\Debug\Projekt.csproj.Up2Date
+C:\Users\alexa\Documents\PiRMS\Projekt\obj\Debug\Projekt.exe
+C:\Users\alexa\Documents\PiRMS\Projekt\obj\Debug\Projekt.pdb
+C:\Users\alexa\Documents\PiRMS\Projekt\bin\Debug\Projekt.pdb
