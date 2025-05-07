@@ -1,0 +1,10 @@
+C:\Users\alexa\Documents\PiRMS\simulace\obj\Debug\simulace.csproj.AssemblyReference.cache
+C:\Users\alexa\Documents\PiRMS\simulace\obj\Debug\SoundSimulatorGUI.Form1.resources
+C:\Users\alexa\Documents\PiRMS\simulace\obj\Debug\simulace.Properties.Resources.resources
+C:\Users\alexa\Documents\PiRMS\simulace\obj\Debug\simulace.csproj.GenerateResource.cache
+C:\Users\alexa\Documents\PiRMS\simulace\obj\Debug\simulace.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\PiRMS\simulace\bin\Debug\simulace.exe.config
+C:\Users\alexa\Documents\PiRMS\simulace\bin\Debug\simulace.exe
+C:\Users\alexa\Documents\PiRMS\simulace\bin\Debug\simulace.pdb
+C:\Users\alexa\Documents\PiRMS\simulace\obj\Debug\simulace.exe
+C:\Users\alexa\Documents\PiRMS\simulace\obj\Debug\simulace.pdb
