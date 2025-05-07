@@ -1,0 +1,15 @@
+C:\Nová složka\C#\PROJEKT_PIRMS\PROJEKT_PIRMS\bin\Debug\Projekt_pirms.exe.config
+C:\Nová složka\C#\PROJEKT_PIRMS\PROJEKT_PIRMS\bin\Debug\Projekt_pirms.exe
+C:\Nová složka\C#\PROJEKT_PIRMS\PROJEKT_PIRMS\bin\Debug\Projekt_pirms.pdb
+C:\Nová složka\C#\PROJEKT_PIRMS\PROJEKT_PIRMS\bin\Debug\MathNet.Numerics.dll
+C:\Nová složka\C#\PROJEKT_PIRMS\PROJEKT_PIRMS\bin\Debug\System.ValueTuple.dll
+C:\Nová složka\C#\PROJEKT_PIRMS\PROJEKT_PIRMS\bin\Debug\MathNet.Numerics.xml
+C:\Nová složka\C#\PROJEKT_PIRMS\PROJEKT_PIRMS\bin\Debug\System.ValueTuple.xml
+C:\Nová složka\C#\PROJEKT_PIRMS\PROJEKT_PIRMS\obj\Debug\Projekt_pirms.csproj.AssemblyReference.cache
+C:\Nová složka\C#\PROJEKT_PIRMS\PROJEKT_PIRMS\obj\Debug\Projekt_pirms.Form1.resources
+C:\Nová složka\C#\PROJEKT_PIRMS\PROJEKT_PIRMS\obj\Debug\Projekt_pirms.Properties.Resources.resources
+C:\Nová složka\C#\PROJEKT_PIRMS\PROJEKT_PIRMS\obj\Debug\Projekt_pirms.csproj.GenerateResource.cache
+C:\Nová složka\C#\PROJEKT_PIRMS\PROJEKT_PIRMS\obj\Debug\Projekt_pirms.csproj.CoreCompileInputs.cache
+C:\Nová složka\C#\PROJEKT_PIRMS\PROJEKT_PIRMS\obj\Debug\Projekt_.C5EA6355.Up2Date
+C:\Nová složka\C#\PROJEKT_PIRMS\PROJEKT_PIRMS\obj\Debug\Projekt_pirms.exe
+C:\Nová složka\C#\PROJEKT_PIRMS\PROJEKT_PIRMS\obj\Debug\Projekt_pirms.pdb
